@@ -1495,10 +1495,11 @@ namespace Medicamentos
 
                 if(txtReport.Text!="")
                 {
-                    Email.SendEmail("primeshell.official@gmail.com", "An user deleted his account and wrote the following message: " + txtReport.Text, "Account deleted", emergency:false, cancel:true);
+                    Email.SendEmail("primeshell.official@gmail.com",txtReport.Text, "Account Deleted - Report", emergency:false, cancel:true);
                 }
 
                 Application.Restart();
+
                 Environment.Exit(0);
             }
         }

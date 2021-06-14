@@ -286,3 +286,42 @@ C:\Users\Francisco\OneDrive\Ambiente de Trabalho\PROJETO - Cópia\Projeto2\Medic
 C:\Users\Francisco\OneDrive\Ambiente de Trabalho\PROJETO - Cópia\Projeto2\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.CopyComplete
 C:\Users\Francisco\OneDrive\Ambiente de Trabalho\PROJETO - Cópia\Projeto2\Medicamentos\Medicamentos\obj\Debug\Medicamentos.exe
 C:\Users\Francisco\OneDrive\Ambiente de Trabalho\PROJETO - Cópia\Projeto2\Medicamentos\Medicamentos\obj\Debug\Medicamentos.pdb
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Medicamentos.exe.config
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Medicamentos.exe
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Medicamentos.pdb
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\MaterialSkin.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\MySql.Data.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Buffers.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Memory.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Zstandard.Net.dll
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\Google.Protobuf.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Buffers.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Memory.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.frmLogin.resources
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.frmMed.resources
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.FrmNewPass.resources
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.frmRegistar.resources
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.RecoverForm.resources
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.exe
+C:\Users\Rodrigo\Desktop\C#\PrimeShell\PrimeShell\Medicamentos\Medicamentos\obj\Debug\Medicamentos.pdb
